@@ -1077,5 +1077,4 @@ int main(int argc, char* argv[])
 	
     // this line runs the simulation and and outputs the results to the two files named above.
 	test.sim( immigration_todo[ task-1 ] , size_todo[ task-1] , meta_todo[ task-1 ] , time_budget , file_out_name , file_log_name);
-	
 }
